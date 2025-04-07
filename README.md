@@ -22,21 +22,6 @@ This repository demonstrates how to build a RAG system optimized for medical app
 
 ---
 
-## System Requirements
-
-### Hardware & Software
-
-- **Processor:** Intel® Core™ Ultra 7 165H
-- **Operating System:** Windows 11 Pro 23H2
-- **RAM:** 64 GB
-- **Python:** Version 3.11.9
-
-### Additional Prerequisites
-
-- [Microsoft Visual C++ Compiler Toolset](https://code.visualstudio.com/docs/cpp/config-msvc) (required for installing `llama-cpp-python`)
-
----
-
 ## Installation and Setup
 
 Follow these steps to set up your development environment:
