@@ -1,6 +1,6 @@
-# BioMed-Retrieval (Medical-RAG-using-Bio-Mistral-7B)
+# BioMed-Retrieval (Medical RAG using Bio Mistral 7B)
 
-Medical-RAG-using-Bio-Mistral-7B is a Retrieval-Augmented Generation (RAG) implementation built on a fully open-source stack. This project leverages **BioMistral-7B** for natural language processing, **PubMedBert** as an embedding model, **Qdrant** as a self-hosted vector database, and **LangChain** along with **Llama CPP** for orchestration. The solution is aimed at exploring new LLM use cases at the edge, particularly for medical applications.
+Medical RAG using Bio Mistral 7B is a Retrieval-Augmented Generation (RAG) implementation built on a fully open-source stack. This project leverages **BioMistral-7B** for natural language processing, **PubMedBert** as an embedding model, **Qdrant** as a self-hosted vector database, and **LangChain** along with **Llama CPP** for orchestration. The solution is aimed at exploring new LLM use cases at the edge, particularly for medical applications.
 
 ---
 
